@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the development server would randomly crash without any apparent error messages in the console. This would interrupt the development workflow and necessitate restarting the server, which was unproductive.  The crash seemed unrelated to any specific code changes or actions, making it difficult to pinpoint the cause.
